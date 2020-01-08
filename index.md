@@ -6,7 +6,7 @@
 <body>
 <div>
   
-<table border=0, width=100%>  <!--style="background-color:lightBlue"-->
+<table border=0, width=100%>  
   <tr style="font-family: arial; font-size: 20px;">
     <td><span style="text-align:left;">Call 770-871-0833 for Free Consultation</td>
   <td align=center>24/7 365 Rapid Response</td>
