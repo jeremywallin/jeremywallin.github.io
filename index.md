@@ -2,8 +2,6 @@
 <html>
 <head>
 <title>Complete Bio-Clean and Decontamintaion</title>
-<link rel="stylesheet" href="style.css">
-​<script src="script.js"></script>
 </head>
 <body>
 <div>
